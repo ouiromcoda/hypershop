@@ -1,0 +1,48 @@
+[
+    {
+        "name": "cinetpay/cinetpay-php",
+        "version": "1.9.1",
+        "version_normalized": "1.9.1.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/cinetpay/cinetpay-php-legacy.git",
+            "reference": "f8d1211e615537cf20d7bdb8bbde889b975d2f68"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/cinetpay/cinetpay-php-legacy/zipball/f8d1211e615537cf20d7bdb8bbde889b975d2f68",
+            "reference": "f8d1211e615537cf20d7bdb8bbde889b975d2f68",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.6.0"
+        },
+        "time": "2018-05-24T00:00:00+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-0": {
+                "CinetPay": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Fawaz Adisa",
+                "email": "adisaf@programmer.net",
+                "role": "Developer"
+            }
+        ],
+        "description": "easily integrate cinetpay's gateway on your php web site.",
+        "homepage": "https://github.com/cinetpay/cinetpay-php-sdk",
+        "keywords": [
+            "cinetpay",
+            "integration",
+            "mobile",
+            "money"
+        ]
+    }
+]
